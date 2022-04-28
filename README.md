@@ -1,6 +1,8 @@
 # seq2seqTextClassification
 
-Business Overview
+#In this Deep Learning Project, we will use the customer complaints data about consumer financial products to build multi-class text classification models using RNN and LSTM.
+
+Problem Overview
 
 Text Classification is one of the essential applications of Natural Language Processing. Neural network-based methods have obtained significant progress on various natural language processing tasks. As deep learning is emerging, training complex data has become faster and easier with networks like RNNs and LSTM.
 
